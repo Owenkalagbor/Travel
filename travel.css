@@ -1,0 +1,7 @@
+/* reset css*/
+header{
+    display: flex;
+   letter-spacing: normal;
+   padding: 10px;
+   margin: 10px;
+}
