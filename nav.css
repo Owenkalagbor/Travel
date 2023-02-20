@@ -115,6 +115,8 @@ a {
     background-color: green;
 }
 
+
+
 .offset {
     position: relative;
 }
@@ -125,3 +127,5 @@ a {
     right: 120px;
     top: 70px;
 }
+
+border-radius: 20px; 
